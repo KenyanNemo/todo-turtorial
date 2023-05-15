@@ -1,4 +1,4 @@
-# This is a To-do list web app created with React
+# This is a To-do list web app created with React folloing a tutorial step by step
 
 # Getting Started with Create React App
 
